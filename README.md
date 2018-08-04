@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Kamran Chitsaz
 
-You can use the [editor on GitHub](https://github.com/kmchiti/kmchiti.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+For download latest Avr teaching slide [click there](/AVR/AVR Microcontroller_1.pptx) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
