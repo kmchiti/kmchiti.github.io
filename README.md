@@ -1,6 +1,6 @@
 ## Kamran Chitsaz
 
-For download latest Avr teaching slide [click there](/AVR/AVR Microcontroller_1.pptx) 
+For download latest Avr teaching slide [click there](/AVR/AVR Microcontroller_1.pptx).
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
